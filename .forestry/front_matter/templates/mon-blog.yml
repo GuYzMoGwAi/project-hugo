@@ -21,4 +21,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/combi-de-luxe.md
 - content/post/combi-1.md
