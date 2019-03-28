@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Two on Mon Blog</title>
-    <link>https://example.org/tags/two/</link>
+    <link>https://project-hugo.netlify.com/tags/two/</link>
     <description>Recent content in Two on Mon Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Mar 2019 10:31:37 +0100</lastBuildDate>
     
-	<atom:link href="https://example.org/tags/two/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://project-hugo.netlify.com/tags/two/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Combi</title>
-      <link>https://example.org/post/combi/</link>
+      <link>https://project-hugo.netlify.com/post/combi/</link>
       <pubDate>Thu, 28 Mar 2019 10:31:37 +0100</pubDate>
       
-      <guid>https://example.org/post/combi/</guid>
+      <guid>https://project-hugo.netlify.com/post/combi/</guid>
       <description>hgfg</description>
     </item>
     

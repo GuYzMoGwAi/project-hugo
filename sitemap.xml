@@ -3,135 +3,140 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/post/combi/</loc>
+    <loc>https://project-hugo.netlify.com/post/combi/</loc>
     <lastmod>2019-03-28T10:31:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/combi-1/</loc>
+    <loc>https://project-hugo.netlify.com/post/combi-1/</loc>
     <lastmod>2019-03-27T23:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/work2/</loc>
+    <loc>https://project-hugo.netlify.com/post/combi-de-luxe/</loc>
+    <lastmod>2019-03-26T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-hugo.netlify.com/post/work2/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/work3/</loc>
+    <loc>https://project-hugo.netlify.com/post/work3/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/work4/</loc>
+    <loc>https://project-hugo.netlify.com/post/work4/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/work5/</loc>
+    <loc>https://project-hugo.netlify.com/post/work5/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/work7/</loc>
+    <loc>https://project-hugo.netlify.com/post/work7/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/work8/</loc>
+    <loc>https://project-hugo.netlify.com/post/work8/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/work9/</loc>
+    <loc>https://project-hugo.netlify.com/post/work9/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/work10/</loc>
+    <loc>https://project-hugo.netlify.com/post/work10/</loc>
     <lastmod>2016-11-05T20:22:08+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/work11/</loc>
+    <loc>https://project-hugo.netlify.com/post/work11/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/thea/</loc>
+    <loc>https://project-hugo.netlify.com/post/thea/</loc>
     <lastmod>2019-03-28T09:33:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://project-hugo.netlify.com/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://project-hugo.netlify.com/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/work1/</loc>
+    <loc>https://project-hugo.netlify.com/post/work1/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://project-hugo.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/code/</loc>
+    <loc>https://project-hugo.netlify.com/categories/code/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/design/</loc>
+    <loc>https://project-hugo.netlify.com/categories/design/</loc>
     <lastmod>2019-03-28T10:31:37+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://project-hugo.netlify.com/</loc>
     <lastmod>2019-03-28T10:31:37+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/one/</loc>
+    <loc>https://project-hugo.netlify.com/tags/one/</loc>
     <lastmod>2019-03-28T10:31:37+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/photography/</loc>
+    <loc>https://project-hugo.netlify.com/categories/photography/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://project-hugo.netlify.com/post/</loc>
     <lastmod>2019-03-28T10:31:37+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://project-hugo.netlify.com/tags/</loc>
     <lastmod>2019-03-28T10:31:37+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/travel/</loc>
+    <loc>https://project-hugo.netlify.com/categories/travel/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/two/</loc>
+    <loc>https://project-hugo.netlify.com/tags/two/</loc>
     <lastmod>2019-03-28T10:31:37+01:00</lastmod>
     <priority>0</priority>
   </url>
